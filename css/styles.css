@@ -1,0 +1,12 @@
+.columns {
+  width:30%;
+  float: left;
+  border: 5px solid black;
+}
+body {
+  background-color: lightblue;
+}
+img {
+  width: 330px;
+  align-content: center;
+}
